@@ -1,0 +1,4 @@
+c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\CheckZips\bin\Debug\CheckZips.exe
+c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\CheckZips\bin\Debug\CheckZips.pdb
+c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\CheckZips\obj\x86\Debug\CheckZips.exe
+c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\CheckZips\obj\x86\Debug\CheckZips.pdb

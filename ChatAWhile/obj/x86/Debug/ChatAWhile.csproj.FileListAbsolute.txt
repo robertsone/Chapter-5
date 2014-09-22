@@ -1,0 +1,4 @@
+c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\ChatAWhile\bin\Debug\ChatAWhile.exe
+c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\ChatAWhile\bin\Debug\ChatAWhile.pdb
+c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\ChatAWhile\obj\x86\Debug\ChatAWhile.exe
+c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\ChatAWhile\obj\x86\Debug\ChatAWhile.pdb
