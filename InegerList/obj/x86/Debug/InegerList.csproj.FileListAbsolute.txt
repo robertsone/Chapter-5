@@ -2,3 +2,7 @@ c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\InegerList\bin\
 c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\InegerList\bin\Debug\InegerList.pdb
 c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\InegerList\obj\x86\Debug\InegerList.exe
 c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\InegerList\obj\x86\Debug\InegerList.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-5\InegerList\bin\Debug\InegerList.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\InegerList\bin\Debug\InegerList.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-5\InegerList\obj\x86\Debug\InegerList.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\InegerList\obj\x86\Debug\InegerList.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAWhile", "ChatAWhile\Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhippetBuss", "WhippetBuss\WhippetBuss.csproj", "{711818A2-06E5-43F6-B60E-0AB260DF57CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeBall", "TeeBall\TeeBall.csproj", "{837C50C6-F394-438E-BA5F-65B843AAF8FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{711818A2-06E5-43F6-B60E-0AB260DF57CD}.Debug|x86.Build.0 = Debug|x86
 		{711818A2-06E5-43F6-B60E-0AB260DF57CD}.Release|x86.ActiveCfg = Release|x86
 		{711818A2-06E5-43F6-B60E-0AB260DF57CD}.Release|x86.Build.0 = Release|x86
+		{837C50C6-F394-438E-BA5F-65B843AAF8FB}.Debug|x86.ActiveCfg = Debug|x86
+		{837C50C6-F394-438E-BA5F-65B843AAF8FB}.Debug|x86.Build.0 = Debug|x86
+		{837C50C6-F394-438E-BA5F-65B843AAF8FB}.Release|x86.ActiveCfg = Release|x86
+		{837C50C6-F394-438E-BA5F-65B843AAF8FB}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

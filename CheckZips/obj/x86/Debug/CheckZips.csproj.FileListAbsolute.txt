@@ -2,3 +2,7 @@ c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\CheckZips\bin\D
 c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\CheckZips\bin\Debug\CheckZips.pdb
 c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\CheckZips\obj\x86\Debug\CheckZips.exe
 c:\users\eahscs\documents\visual studio 2010\Projects\InegerList\CheckZips\obj\x86\Debug\CheckZips.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-5\CheckZips\bin\Debug\CheckZips.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\CheckZips\bin\Debug\CheckZips.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-5\CheckZips\obj\x86\Debug\CheckZips.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\CheckZips\obj\x86\Debug\CheckZips.pdb
